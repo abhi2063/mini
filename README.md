@@ -1,1 +1,1 @@
-# mini
+# University-Score-Prediction
